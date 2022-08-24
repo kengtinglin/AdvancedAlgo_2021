@@ -1,0 +1,11 @@
+# AdvancedAlgo_2021
+- hw1
+  - To exercise the concept of divide and conquer.
+- hw2
+  - To exercise the concept of recursion.
+  - To learn how to use tree
+- hw3
+  - To exercise the concept of dynamic programming and recursion.
+- hw4
+  - Strongly Connected Component.
+  - To exercise the concept of Minimum Spanning Tree.
